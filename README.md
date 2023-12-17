@@ -1,1 +1,1 @@
-# spring-cloud-config-ps-01
+# spring-cloud-config-pref
